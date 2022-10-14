@@ -1,0 +1,1 @@
+Essa pasta foi criada somente para armazenar o arquivo que iniciará o banco de dados no contêiner
